@@ -6,7 +6,7 @@
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lullez&layout=compact&theme=dracula"/>
 </div>
 
-## Technologies:
+## Technologies I use:
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
